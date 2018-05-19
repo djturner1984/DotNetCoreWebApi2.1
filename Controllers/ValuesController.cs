@@ -13,7 +13,8 @@ namespace dotnetCorewebApi.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            var operatingSystem = System.Runtime.InteropServices.RuntimeInformation.OSDescription;
+            return new string[] { $"OS = {operatingSystem}" };
         }
 
         // GET api/values/5
