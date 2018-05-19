@@ -1,0 +1,11 @@
+D:\git\dotnetCorewebApi\bin\Debug\netcoreapp2.0\dotnetCorewebApi.deps.json
+D:\git\dotnetCorewebApi\bin\Debug\netcoreapp2.0\dotnetCorewebApi.runtimeconfig.json
+D:\git\dotnetCorewebApi\bin\Debug\netcoreapp2.0\dotnetCorewebApi.runtimeconfig.dev.json
+D:\git\dotnetCorewebApi\bin\Debug\netcoreapp2.0\dotnetCorewebApi.dll
+D:\git\dotnetCorewebApi\bin\Debug\netcoreapp2.0\dotnetCorewebApi.pdb
+D:\git\dotnetCorewebApi\obj\Debug\netcoreapp2.0\dotnetCorewebApi.csprojAssemblyReference.cache
+D:\git\dotnetCorewebApi\obj\Debug\netcoreapp2.0\dotnetCorewebApi.csproj.CoreCompileInputs.cache
+D:\git\dotnetCorewebApi\obj\Debug\netcoreapp2.0\dotnetCorewebApi.AssemblyInfoInputs.cache
+D:\git\dotnetCorewebApi\obj\Debug\netcoreapp2.0\dotnetCorewebApi.AssemblyInfo.cs
+D:\git\dotnetCorewebApi\obj\Debug\netcoreapp2.0\dotnetCorewebApi.dll
+D:\git\dotnetCorewebApi\obj\Debug\netcoreapp2.0\dotnetCorewebApi.pdb
